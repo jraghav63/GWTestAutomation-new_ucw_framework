@@ -1,0 +1,32 @@
+[
+  {
+    "language": "English (US)",
+    "mainMenu": "Desktop,Account,Policy,Contact,Search,Team,Report,Administration",
+    "searchAccountsPage": "Search Accounts,First name,Last name,Country,City"
+  },
+  {
+    "language": "Deutsch",
+    "mainMenu": "Desktop,Konto,Police,Kontakt,Suchen,Team,Bericht",
+    "searchAccountsPage": "Konten suchen,Vorname,Nachname,Land,Ort"
+  },
+  {
+    "language": "Español",
+    "mainMenu": "Escritorio,Cuenta,Póliza,Contacto,Buscar,Equipo,Informe",
+    "searchAccountsPage": "Búsqueda de cuentas,Nombre,Apellido,País,Ciudad"
+  },
+  {
+    "language": "Français",
+    "mainMenu": "Bureau,Compte client,Contrat,Contact,Rechercher,Équipe,Rapport",
+    "searchAccountsPage": "Rechercher des comptes,Prénom,Nom,Pays,Ville"
+  },
+  {
+    "language": "Italiano",
+    "mainMenu": "Desktop,Account,Polizza,Contatto,Ricerca,Team,Report",
+    "searchAccountsPage": "Cerca account,Nome,Cognome,Paese,Città"
+  },
+  {
+    "language": "Nederlands",
+    "mainMenu": "Bureaublad,Klant,Polis,Contact,Zoeken,Team,Rapporteren",
+    "searchAccountsPage": "Klanten zoeken,Voornaam,Achternaam,Land,Plaatsnaam"
+  }
+]

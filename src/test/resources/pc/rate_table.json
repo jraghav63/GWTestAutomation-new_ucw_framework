@@ -1,0 +1,2790 @@
+[
+  {
+    "country": "France",
+    "rating": {
+      "spoticar": {
+        "warranty": {
+          "prices": [
+            {
+              "managementType": "Insured",
+              "baseRates": [
+                {
+                  "type": "GVO Premium 2 / 60",
+                  "carPowers": [
+                    {
+                      "min": 0,
+                      "max": 100,
+                      "value": "110,18"
+                    },
+                    {
+                      "min": 101,
+                      "max": 140,
+                      "value": "160,38"
+                    },
+                    {
+                      "min": 141,
+                      "max": 300,
+                      "value": "204,43"
+                    },
+                    {
+                      "min": 301,
+                      "max": 400,
+                      "value": "229,07"
+                    },
+                    {
+                      "min": 401,
+                      "max": 510,
+                      "value": "253,71"
+                    }
+                  ]
+                },
+                {
+                  "type": "GVO Premium 7 / 150",
+                  "carPowers": [
+                    {
+                      "min": 0,
+                      "max": 100,
+                      "value": "155,21"
+                    },
+                    {
+                      "min": 101,
+                      "max": 140,
+                      "value": "214,15"
+                    },
+                    {
+                      "min": 141,
+                      "max": 300,
+                      "value": "360,59"
+                    },
+                    {
+                      "min": 301,
+                      "max": 400,
+                      "value": "400,84"
+                    },
+                    {
+                      "min": 401,
+                      "max": 510,
+                      "value": "441,11"
+                    }
+                  ]
+                },
+                {
+                  "type": "GVO Advanced 10 / 200",
+                  "carPowers": [
+                    {
+                      "min": 0,
+                      "max": 100,
+                      "value": "171,86"
+                    },
+                    {
+                      "min": 101,
+                      "max": 140,
+                      "value": "241,81"
+                    },
+                    {
+                      "min": 141,
+                      "max": 300,
+                      "value": "381,39"
+                    },
+                    {
+                      "min": 301,
+                      "max": 400,
+                      "value": "423,73"
+                    },
+                    {
+                      "min": 401,
+                      "max": 510,
+                      "value": "466,07"
+                    }
+                  ]
+                },
+                {
+                  "type": "GVO Essential 15 / 200",
+                  "carPowers": [
+                    {
+                      "min": 0,
+                      "max": 100,
+                      "value": "173,02"
+                    },
+                    {
+                      "min": 101,
+                      "max": 140,
+                      "value": "313,65"
+                    },
+                    {
+                      "min": 141,
+                      "max": 300,
+                      "value": "430,75"
+                    },
+                    {
+                      "min": 301,
+                      "max": 400,
+                      "value": "478,04"
+                    },
+                    {
+                      "min": 401,
+                      "max": 510,
+                      "value": "525,32"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "durations": [
+            {
+              "type": "GVO Premium 2 / 60",
+              "contactDuration": "24",
+              "value": "2"
+            },
+            {
+              "type": "GVO Premium 7 / 150",
+              "contactDuration": "12",
+              "value": "1"
+            },
+            {
+              "type": "GVO Advanced 10 / 200",
+              "contactDuration": "8",
+              "value": "0,67"
+            },
+            {
+              "type": "GVO Essential 15 / 200",
+              "contactDuration": "6",
+              "value": "0,5"
+            }
+          ],
+          "managementFees": [
+            {
+              "managementType": "Insured",
+              "value": "42"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "36"
+            }
+          ],
+          "commissions": [
+            {
+              "managementType": "Insured",
+              "value": "0"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0"
+            }
+          ],
+          "taxes": [
+            {
+              "managementType": "Insured",
+              "value": "0,09"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0,2"
+            }
+          ],
+          "waitingPeriods": [
+            {
+              "choice": "GVO Premium 2 / 60",
+              "value": "3"
+            },
+            {
+              "choice": "GVO Premium 7 / 150",
+              "value": "2"
+            },
+            {
+              "choice": "GVO Advanced 10 / 200",
+              "value": "1"
+            }
+          ],
+          "combinedVariables": [
+            {
+              "managementType": "Insured",
+              "value": "1"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "1"
+            }
+          ]
+        },
+        "assistance": {
+          "prices": [
+            {
+              "managementType": "Insured",
+              "value": "14,48"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "14,48"
+            },
+            {
+              "managementType": "Self-Managed",
+              "value": "14,48"
+            }
+          ],
+          "combinedVariables": [
+            {
+              "managementType": "Insured",
+              "value": "1"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "1"
+            }
+          ],
+          "durations": [
+            {
+              "type": "GVO Premium 2 / 60",
+              "value": "2"
+            },
+            {
+              "type": "GVO Premium 7 / 150",
+              "value": "1"
+            },
+            {
+              "type": "GVO Advanced 10 / 200",
+              "value": "0,67"
+            },
+            {
+              "type": "GVO Essential 15 / 200",
+              "value": "0,5"
+            }
+          ],
+          "managementFees": [
+            {
+              "managementType": "Insured",
+              "value": "0"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0"
+            },
+            {
+              "managementType": "Self-Managed",
+              "value": "0"
+            }
+          ],
+          "lossRatios": [
+            {
+              "managementType": "Insured",
+              "value": "1"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "1"
+            },
+            {
+              "managementType": "Self-Managed",
+              "value": "1"
+            }
+          ],
+          "commissions": [
+            {
+              "managementType": "Insured",
+              "value": "0"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0"
+            },
+            {
+              "managementType": "Self-Managed",
+              "value": "0"
+            }
+          ],
+          "taxes": [
+            {
+              "managementType": "Insured",
+              "value": "0,2"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0,2"
+            },
+            {
+              "managementType": "Self-Managed",
+              "value": "0,2"
+            }
+          ]
+        },
+        "clientRelationService": {
+          "prices": [
+            {
+              "duration": "6",
+              "value": "6,5"
+            },
+            {
+              "duration": "8",
+              "value": "6,5"
+            },
+            {
+              "duration": "12",
+              "value": "6,5"
+            },
+            {
+              "duration": "24",
+              "value": "13"
+            }
+          ],
+          "taxes": [
+            {
+              "managementType": "Insured",
+              "value": "0,2"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0,2"
+            },
+            {
+              "managementType": "Self-Managed",
+              "value": "0,2"
+            }
+          ]
+        }
+      },
+      "arc": {
+        "warranty": {
+          "prices": [
+            {
+              "managementType": "Insured",
+              "baseRates": [
+                {
+                  "type": "GVO Alfa Romeo Certfied 4/80",
+                  "models": [
+                    {
+                      "name": "Giulietta",
+                      "value": "228,64"
+                    },
+                    {
+                      "name": "Tonale",
+                      "value": "283,69"
+                    },
+                    {
+                      "name": "Giulia",
+                      "value": "405,25"
+                    },
+                    {
+                      "name": "Stelvio",
+                      "value": "405,25"
+                    },
+                    {
+                      "name": "GTA",
+                      "value": "852,49"
+                    },
+                    {
+                      "name": "Quadrifoglio",
+                      "value": "852,49"
+                    }
+                  ]
+                },
+                {
+                  "type": "GVO Alfa Romeo Certfied 7/150",
+                  "models": [
+                    {
+                      "name": "Giulietta",
+                      "value": "407,54"
+                    },
+                    {
+                      "name": "Tonale",
+                      "value": "517,63"
+                    },
+                    {
+                      "name": "Giulia",
+                      "value": "719,47"
+                    },
+                    {
+                      "name": "Stelvio",
+                      "value": "719,47"
+                    },
+                    {
+                      "name": "GTA",
+                      "value": "1480,94"
+                    },
+                    {
+                      "name": "Quadrifoglio",
+                      "value": "1480,94"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "durations": [
+            {
+              "type": "GVO Alfa Romeo Certfied 4/80",
+              "value": "3"
+            },
+            {
+              "type": "GVO Alfa Romeo Certfied 7/150",
+              "value": "3"
+            }
+          ],
+          "managementFees": [
+            {
+              "managementType": "Insured",
+              "value": "42"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "36"
+            }
+          ],
+          "commissions": [
+            {
+              "managementType": "Insured",
+              "value": "0"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0"
+            }
+          ],
+          "taxes": [
+            {
+              "managementType": "Insured",
+              "value": "0,09"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0,2"
+            }
+          ]
+        },
+        "assistance": {
+          "prices": [
+            {
+              "managementType": "Insured",
+              "value": "30,36"
+            }
+          ],
+          "combinedVariables": [
+            {
+              "managementType": "Insured",
+              "value": "1"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "1"
+            }
+          ],
+          "managementFees": [
+            {
+              "managementType": "Insured",
+              "value": "0"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0"
+            }
+          ],
+          "lossRatios": [
+            {
+              "managementType": "Insured",
+              "value": "1"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "1"
+            }
+          ],
+          "commissions": [
+            {
+              "managementType": "Insured",
+              "value": "0"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0"
+            }
+          ],
+          "taxes": [
+            {
+              "managementType": "Insured",
+              "value": "0,2"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0,2"
+            }
+          ]
+        }
+      },
+      "dsc": {
+        "warranty": {
+          "prices": [
+            {
+              "managementType": "Insured",
+              "baseRates": [
+                {
+                  "type": "GVO DSC 4 / 80",
+                  "models": [
+                    {
+                      "name": "DS3",
+                      "value": "178,18"
+                    },
+                    {
+                      "name": "DS4",
+                      "value": "274,51"
+                    },
+                    {
+                      "name": "DS5",
+                      "value": "384,6"
+                    },
+                    {
+                      "name": "DS7",
+                      "value": "384,6"
+                    },
+                    {
+                      "name": "DS9",
+                      "value": "384,6"
+                    }
+                  ]
+                },
+                {
+                  "type": "GVO DSC 7 / 150",
+                  "models": [
+                    {
+                      "name": "DS3",
+                      "value": "315,8"
+                    },
+                    {
+                      "name": "DS4",
+                      "value": "499,28"
+                    },
+                    {
+                      "name": "DS5",
+                      "value": "682,77"
+                    },
+                    {
+                      "name": "DS7",
+                      "value": "682,77"
+                    },
+                    {
+                      "name": "DS9",
+                      "value": "682,77"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "durations": [
+            {
+              "type": "GVO DSC 4 / 80",
+              "contractDuration": "24",
+              "value": "3"
+            },
+            {
+              "type": "GVO DSC 7 / 150",
+              "contractDuration": "12",
+              "value": "3"
+            }
+          ],
+          "managementFees": [
+            {
+              "managementType": "Insured",
+              "value": "24"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "36"
+            }
+          ],
+          "commissions": [
+            {
+              "managementType": "Insured",
+              "value": "0"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0"
+            }
+          ],
+          "taxes": [
+            {
+              "managementType": "Insured",
+              "value": "0,09"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0,2"
+            }
+          ],
+          "waitingPeriods": [
+            {
+              "choice": "GVO DSC 4 / 80",
+              "value": "3"
+            },
+            {
+              "choice": "GVO DSC 7 / 150",
+              "value": "3"
+            }
+          ]
+        },
+        "assistance": {
+          "prices": [
+            {
+              "managementType": "Insured",
+              "value": "30,36"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "30,36"
+            }
+          ],
+          "combinedVariables": [
+            {
+              "managementType": "Insured",
+              "value": "1"
+            }
+          ],
+          "managementFees": [
+            {
+              "managementType": "Insured",
+              "value": "0"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0"
+            }
+          ],
+          "lossRatios": [
+            {
+              "managementType": "Insured",
+              "value": "1"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "1"
+            }
+          ],
+          "commissions": [
+            {
+              "managementType": "Insured",
+              "value": "0"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0"
+            }
+          ],
+          "taxes": [
+            {
+              "managementType": "Insured",
+              "value": "0,2"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0,2"
+            }
+          ]
+        }
+      },
+      "whitelabel": {
+        "warranty": {
+          "prices": [
+            {
+              "managementType": "Insured",
+              "baseRates": [
+                {
+                  "type": "GVO Premium 2 / 60",
+                  "carPowers": [
+                    {
+                      "min": 0,
+                      "max": 100,
+                      "value": "110,18"
+                    },
+                    {
+                      "min": 101,
+                      "max": 140,
+                      "value": "160,38"
+                    },
+                    {
+                      "min": 141,
+                      "max": 300,
+                      "value": "204,43"
+                    },
+                    {
+                      "min": 301,
+                      "max": 400,
+                      "value": "229,07"
+                    },
+                    {
+                      "min": 401,
+                      "max": 510,
+                      "value": "253,71"
+                    }
+                  ]
+                },
+                {
+                  "type": "GVO Premium 7 / 150",
+                  "carPowers": [
+                    {
+                      "min": 0,
+                      "max": 100,
+                      "value": "155,21"
+                    },
+                    {
+                      "min": 101,
+                      "max": 140,
+                      "value": "214,15"
+                    },
+                    {
+                      "min": 141,
+                      "max": 300,
+                      "value": "360,59"
+                    },
+                    {
+                      "min": 301,
+                      "max": 400,
+                      "value": "400,84"
+                    },
+                    {
+                      "min": 401,
+                      "max": 510,
+                      "value": "441,11"
+                    }
+                  ]
+                },
+                {
+                  "type": "GVO Advanced 10 / 200",
+                  "carPowers": [
+                    {
+                      "min": 0,
+                      "max": 100,
+                      "value": "171,86"
+                    },
+                    {
+                      "min": 101,
+                      "max": 140,
+                      "value": "241,81"
+                    },
+                    {
+                      "min": 141,
+                      "max": 300,
+                      "value": "381,39"
+                    },
+                    {
+                      "min": 301,
+                      "max": 400,
+                      "value": "423,73"
+                    },
+                    {
+                      "min": 401,
+                      "max": 510,
+                      "value": "466,07"
+                    }
+                  ]
+                },
+                {
+                  "type": "GVO Essential 15 / 200",
+                  "carPowers": [
+                    {
+                      "min": 0,
+                      "max": 100,
+                      "value": "173,02"
+                    },
+                    {
+                      "min": 101,
+                      "max": 140,
+                      "value": "313,65"
+                    },
+                    {
+                      "min": 141,
+                      "max": 300,
+                      "value": "430,75"
+                    },
+                    {
+                      "min": 301,
+                      "max": 400,
+                      "value": "478,04"
+                    },
+                    {
+                      "min": 401,
+                      "max": 510,
+                      "value": "525,32"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "durations": [
+            {
+              "type": "GVO Premium 2 / 60",
+              "contactDuration": "24",
+              "value": "2"
+            },
+            {
+              "type": "GVO Premium 7 / 150",
+              "contactDuration": "12",
+              "value": "1"
+            },
+            {
+              "type": "GVO Advanced 10 / 200",
+              "contactDuration": "8",
+              "value": "0,67"
+            },
+            {
+              "type": "GVO Essential 15 / 200",
+              "contactDuration": "6",
+              "value": "0,5"
+            }
+          ],
+          "managementFees": [
+            {
+              "managementType": "Insured",
+              "value": "42"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "36"
+            }
+          ],
+          "commissions": [
+            {
+              "managementType": "Insured",
+              "value": "0"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0"
+            }
+          ],
+          "taxes": [
+            {
+              "managementType": "Insured",
+              "value": "0,09"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0,2"
+            }
+          ],
+          "waitingPeriods": [
+            {
+              "choice": "GVO Premium 2 / 60",
+              "value": "3"
+            },
+            {
+              "choice": "GVO Premium 7 / 150",
+              "value": "2"
+            },
+            {
+              "choice": "GVO Advanced 10 / 200",
+              "value": "1"
+            }
+          ],
+          "combinedVariables": [
+            {
+              "managementType": "Insured",
+              "value": "1"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "1"
+            }
+          ]
+        },
+        "assistance": {
+          "prices": [
+            {
+              "managementType": "Insured",
+              "value": "14,48"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "14,48"
+            },
+            {
+              "managementType": "Self-Managed",
+              "value": "14,48"
+            }
+          ],
+          "combinedVariables": [
+            {
+              "managementType": "Insured",
+              "value": "1"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "1"
+            }
+          ],
+          "durations": [
+            {
+              "type": "GVO Premium 2 / 60",
+              "value": "2"
+            },
+            {
+              "type": "GVO Premium 7 / 150",
+              "value": "1"
+            },
+            {
+              "type": "GVO Advanced 10 / 200",
+              "value": "0,67"
+            },
+            {
+              "type": "GVO Essential 15 / 200",
+              "value": "0,5"
+            }
+          ],
+          "managementFees": [
+            {
+              "managementType": "Insured",
+              "value": "0"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0"
+            },
+            {
+              "managementType": "Self-Managed",
+              "value": "0"
+            }
+          ],
+          "lossRatios": [
+            {
+              "managementType": "Insured",
+              "value": "1"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "1"
+            },
+            {
+              "managementType": "Self-Managed",
+              "value": "1"
+            }
+          ],
+          "commissions": [
+            {
+              "managementType": "Insured",
+              "value": "0"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0"
+            },
+            {
+              "managementType": "Self-Managed",
+              "value": "0"
+            }
+          ],
+          "taxes": [
+            {
+              "managementType": "Insured",
+              "value": "0,2"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0,2"
+            },
+            {
+              "managementType": "Self-Managed",
+              "value": "0,2"
+            }
+          ]
+        },
+        "clientRelationService": {
+          "prices": [
+            {
+              "duration": "6",
+              "value": "6,5"
+            },
+            {
+              "duration": "8",
+              "value": "6,5"
+            },
+            {
+              "duration": "12",
+              "value": "6,5"
+            },
+            {
+              "duration": "24",
+              "value": "13"
+            }
+          ],
+          "taxes": [
+            {
+              "managementType": "Insured",
+              "value": "0,2"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0,2"
+            },
+            {
+              "managementType": "Self-Managed",
+              "value": "0,2"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "country": "Spain",
+    "rating": {
+      "spoticar": {
+        "warranty": {
+          "prices": [
+            {
+              "managementType": "Insured",
+              "baseRates": [
+                {
+                  "type": "GVO Premium 2 / 60",
+                  "carPowers": [
+                    {
+                      "min": 0,
+                      "max": 100,
+                      "value": "93,69"
+                    },
+                    {
+                      "min": 101,
+                      "max": 140,
+                      "value": "135,3"
+                    },
+                    {
+                      "min": 141,
+                      "max": 300,
+                      "value": "224,99"
+                    }
+                  ]
+                },
+                {
+                  "type": "GVO Premium 2 / 100",
+                  "carPowers": [
+                    {
+                      "min": 0,
+                      "max": 100,
+                      "value": "120,51"
+                    },
+                    {
+                      "min": 101,
+                      "max": 140,
+                      "value": "172,29"
+                    },
+                    {
+                      "min": 141,
+                      "max": 300,
+                      "value": "308,21"
+                    }
+                  ]
+                },
+                {
+                  "type": "GVO Premium 5 / 150",
+                  "carPowers": [
+                    {
+                      "min": 0,
+                      "max": 100,
+                      "value": "162,12"
+                    },
+                    {
+                      "min": 101,
+                      "max": 140,
+                      "value": "245,34"
+                    },
+                    {
+                      "min": 141,
+                      "max": 300,
+                      "value": "445,98"
+                    }
+                  ]
+                },
+                {
+                  "type": "GVO Premium 7 / 150",
+                  "carPowers": [
+                    {
+                      "min": 0,
+                      "max": 100,
+                      "value": "304,51"
+                    },
+                    {
+                      "min": 101,
+                      "max": 140,
+                      "value": "421,94"
+                    },
+                    {
+                      "min": 141,
+                      "max": 300,
+                      "value": "717,83"
+                    }
+                  ]
+                },
+                {
+                  "type": "GVO Premium 7 / 200",
+                  "carPowers": [
+                    {
+                      "min": 0,
+                      "max": 100,
+                      "value": "362,77"
+                    },
+                    {
+                      "min": 101,
+                      "max": 140,
+                      "value": "481,12"
+                    },
+                    {
+                      "min": 141,
+                      "max": 300,
+                      "value": "776,08"
+                    }
+                  ]
+                },
+                {
+                  "type": "GVO Advanced 10 / 150",
+                  "carPowers": [
+                    {
+                      "min": 0,
+                      "max": 100,
+                      "value": "318,38"
+                    },
+                    {
+                      "min": 101,
+                      "max": 140,
+                      "value": "422,87"
+                    },
+                    {
+                      "min": 141,
+                      "max": 300,
+                      "value": "684,26"
+                    }
+                  ]
+                },
+                {
+                  "type": "GVO Advanced 10 / 200",
+                  "carPowers": [
+                    {
+                      "min": 0,
+                      "max": 100,
+                      "value": "381,26"
+                    },
+                    {
+                      "min": 101,
+                      "max": 140,
+                      "value": "548,62"
+                    },
+                    {
+                      "min": 141,
+                      "max": 300,
+                      "value": "947,14"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "managementFees": [
+            {
+              "managementType": "Insured",
+              "value": "28"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "27,84"
+            }
+          ],
+          "commissions": [
+            {
+              "managementType": "Insured",
+              "value": "0"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0"
+            }
+          ],
+          "taxes": [
+            {
+              "managementType": "Insured",
+              "value": "0,0815"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0,21"
+            }
+          ],
+          "combinedVariables": [
+            {
+              "managementType": "Insured",
+              "vehicleSpecific": "No 4X4",
+              "value": "1,25"
+            },
+            {
+              "managementType": "Insured",
+              "vehicleSpecific": "4x4",
+              "value": "1,4"
+            },
+            {
+              "managementType": "Delegated",
+              "vehicleSpecific": "No 4X4",
+              "value": "1"
+            },
+            {
+              "managementType": "Delegated",
+              "vehicleSpecific": "4x4",
+              "value": "1"
+            }
+          ]
+        },
+        "assistance": {
+          "prices": [
+            {
+              "managementType": "Insured",
+              "value": "2,17"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "2,17"
+            }
+          ],
+          "combinedVariables": [
+            {
+              "managementType": "Insured",
+              "vehicleSpecific": "No 4X4",
+              "value": "1"
+            },
+            {
+              "managementType": "Insured",
+              "vehicleSpecific": "4x4",
+              "value": "1"
+            },
+            {
+              "managementType": "Delegated",
+              "vehicleSpecific": "No 4X4",
+              "value": "1"
+            },
+            {
+              "managementType": "Delegated",
+              "vehicleSpecific": "4x4",
+              "value": "1"
+            }
+          ],
+          "managementFees": [
+            {
+              "managementType": "Insured",
+              "value": "0"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0"
+            }
+          ],
+          "lossRatios": [
+            {
+              "managementType": "Insured",
+              "value": "1"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "1"
+            }
+          ],
+          "commissions": [
+            {
+              "managementType": "Insured",
+              "value": "3"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "3"
+            }
+          ],
+          "taxes": [
+            {
+              "managementType": "Insured",
+              "value": "0,0815"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0,0815"
+            }
+          ]
+        }
+      },
+      "arc": {
+        "warranty": {
+          "prices": [
+            {
+              "managementType": "Insured",
+              "baseRates": [
+                {
+                  "type": "GVO Alfa Romeo Certified 4/80",
+                  "models": [
+                    {
+                      "name": "Giulietta",
+                      "value": "140,65"
+                    },
+                    {
+                      "name": "Tonale",
+                      "value": "216,01"
+                    },
+                    {
+                      "name": "Stelvio",
+                      "value": "399,09"
+                    },
+                    {
+                      "name": "Giulia",
+                      "value": "399,09"
+                    },
+                    {
+                      "name": "Giulia GTA",
+                      "value": "839,22"
+                    },
+                    {
+                      "name": "Giulia Quadrifoglio",
+                      "value": "839,22"
+                    }
+                  ]
+                },
+                {
+                  "type": "GVO Alfa Romeo Certified 7/150",
+                  "models": [
+                    {
+                      "name": "Giulietta",
+                      "value": "313,1"
+                    },
+                    {
+                      "name": "Tonale",
+                      "value": "435,15"
+                    },
+                    {
+                      "name": "Stelvio",
+                      "value": "743,06"
+                    },
+                    {
+                      "name": "Giulia",
+                      "value": "743,06"
+                    },
+                    {
+                      "name": "Giulia GTA",
+                      "value": "1527,15"
+                    },
+                    {
+                      "name": "Giulia Quadrifoglio",
+                      "value": "1527,15"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "durations" : [
+            {
+              "type": "GVO Alfa Romeo Certified 4/80",
+              "value": "2"
+            },
+            {
+              "type": "GVO Alfa Romeo Certified 4/80",
+              "value": "2"
+            }
+          ],
+          "managementFees": [
+            {
+              "managementType": "Insured",
+              "value": "28"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "27,84"
+            }
+          ],
+          "commissions": [
+            {
+              "managementType": "Insured",
+              "value": "0"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0"
+            }
+          ],
+          "taxes": [
+            {
+              "managementType": "Insured",
+              "value": "0,0815"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0,21"
+            }
+          ],
+          "combinedVariables": [
+            {
+              "managementType": "Insured",
+              "value": "1"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "1"
+            }
+          ]
+        },
+        "assistance": {
+          "prices": [
+            {
+              "managementType": "Insured",
+              "value": "3,26"
+            }
+          ],
+          "durations" : [
+            {
+              "type": "GVO Alfa Romeo Certified 4/80",
+              "value": "2"
+            },
+            {
+              "type": "GVO Alfa Romeo Certified 7/150",
+              "value": "2"
+            }
+          ],
+          "combinedVariables": [
+            {
+              "managementType": "Insured",
+              "value": "1"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "1"
+            }
+          ],
+          "managementFees": [
+            {
+              "managementType": "Insured",
+              "value": "0"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0"
+            }
+          ],
+          "lossRatios": [
+            {
+              "managementType": "Insured",
+              "value": "1"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "1"
+            }
+          ],
+          "commissions": [
+            {
+              "managementType": "Insured",
+              "value": "3"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "3"
+            }
+          ],
+          "taxes": [
+            {
+              "managementType": "Insured",
+              "value": "0,0815"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0,0815"
+            }
+          ]
+        }
+      },
+      "dsc": {
+        "warranty": {
+          "prices": [
+            {
+              "managementType": "Insured",
+              "baseRates": [
+                {
+                  "type": "GVO DSC 4 / 80",
+                  "models": [
+                    {
+                      "name": "DS3",
+                      "value": "223,98"
+                    },
+                    {
+                      "name": "DS4",
+                      "value": "304,42"
+                    },
+                    {
+                      "name": "DS5",
+                      "value": "571,64"
+                    },
+                    {
+                      "name": "DS7",
+                      "value": "571,64"
+                    },
+                    {
+                      "name": "DS9",
+                      "value": "571,64"
+                    }
+                  ]
+                },
+                {
+                  "type": "GVO DSC 7 / 150",
+                  "models": [
+                    {
+                      "name": "DS3",
+                      "value": "174,4"
+                    },
+                    {
+                      "name": "DS4",
+                      "value": "253"
+                    },
+                    {
+                      "name": "DS5",
+                      "value": "431,45"
+                    },
+                    {
+                      "name": "DS7",
+                      "value": "431,45"
+                    },
+                    {
+                      "name": "DS9",
+                      "value": "431,45"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "managementFees": [
+            {
+              "managementType": "Insured",
+              "value": "28"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "27,84"
+            }
+          ],
+          "commissions": [
+            {
+              "managementType": "Insured",
+              "value": "0"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0"
+            }
+          ],
+          "taxes": [
+            {
+              "managementType": "Insured",
+              "value": "0,0815"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0,21"
+            }
+          ]
+        },
+        "assistance": {
+          "prices": [
+            {
+              "managementType": "Insured",
+              "value": "3,26"
+            }
+          ],
+          "durations" : [
+            {
+              "type": "GVO DSC 4 / 80",
+              "value": "2"
+            },
+            {
+              "type": "GVO DSC 7 / 150",
+              "value": "1"
+            }
+          ],
+          "combinedVariables": [
+            {
+              "managementType": "Insured",
+              "value": "1"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "1"
+            }
+          ],
+          "managementFees": [
+            {
+              "managementType": "Insured",
+              "value": "0"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0"
+            }
+          ],
+          "lossRatios": [
+            {
+              "managementType": "Insured",
+              "value": "1"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "1"
+            }
+          ],
+          "commissions": [
+            {
+              "managementType": "Insured",
+              "value": "3"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "3"
+            }
+          ],
+          "taxes": [
+            {
+              "managementType": "Insured",
+              "value": "0,0815"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0,0815"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "country": "Italy",
+    "rating": {
+      "spoticar": {
+        "warranty": {
+          "prices": [
+            {
+              "managementType": "Insured",
+              "baseRates": [
+                {
+                  "type": "Garanzia Spoticar Premium - 12 Months",
+                  "carPowers": [
+                    {
+                      "min": 1,
+                      "max": 75,
+                      "value": "112,68"
+                    },
+                    {
+                      "min": 76,
+                      "max": 115,
+                      "value": "154,09"
+                    },
+                    {
+                      "min": 116,
+                      "max": 249,
+                      "value": "285,36"
+                    }
+                  ]
+                },
+                {
+                  "type": "Garanzia Spoticar Premium - 24 Months",
+                  "carPowers": [
+                    {
+                      "min": 1,
+                      "max": 75,
+                      "value": "118,4"
+                    },
+                    {
+                      "min": 76,
+                      "max": 115,
+                      "value": "181,84"
+                    },
+                    {
+                      "min": 116,
+                      "max": 249,
+                      "value": "330,74"
+                    }
+                  ]
+                },
+                {
+                  "type": "Garanzia Spoticar Advanced - 12 Months",
+                  "carPowers": [
+                    {
+                      "min": 1,
+                      "max": 75,
+                      "value": "113,56"
+                    },
+                    {
+                      "min": 76,
+                      "max": 115,
+                      "value": "143,51"
+                    },
+                    {
+                      "min": 116,
+                      "max": 249,
+                      "value": "238,67"
+                    }
+                  ]
+                },
+                {
+                  "type": "Garanzia Spoticar Advanced - 24 Months",
+                  "carPowers": [
+                    {
+                      "min": 1,
+                      "max": 75,
+                      "value": "112,67"
+                    },
+                    {
+                      "min": 76,
+                      "max": 115,
+                      "value": "160,69"
+                    },
+                    {
+                      "min": 116,
+                      "max": 249,
+                      "value": "277,43"
+                    }
+                  ]
+                },
+                {
+                  "type": "Garanzia Spoticar Essential 1 - 12 Months",
+                  "carPowers": [
+                    {
+                      "min": 1,
+                      "max": 75,
+                      "value": "154,97"
+                    },
+                    {
+                      "min": 76,
+                      "max": 115,
+                      "value": "168,18"
+                    },
+                    {
+                      "min": 116,
+                      "max": 249,
+                      "value": "233,38"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "durations" : [
+            {
+              "type": "Garanzia Spoticar Premium - 12 Months",
+              "value": "1"
+            },
+            {
+              "type": "Garanzia Spoticar Premium - 24 Months",
+              "value": "2"
+            },
+            {
+              "type": "Garanzia Spoticar Advanced - 12 Months",
+              "value": "1"
+            },
+            {
+              "type": "Garanzia Spoticar Advanced - 24 Months",
+              "value": "2"
+            },
+            {
+              "type": "Garanzia Spoticar Essential 1 - 12 Months",
+              "value": "1"
+            }
+          ],
+          "managementFees": [
+            {
+              "managementType": "Insured",
+              "value": "36"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "36"
+            }
+          ],
+          "commissions": [
+            {
+              "managementType": "Insured",
+              "value": "0"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0"
+            }
+          ],
+          "taxes": [
+            {
+              "managementType": "Insured",
+              "value": "0,135"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0,1"
+            }
+          ],
+          "combinedVariables": [
+            {
+              "managementType": "Insured",
+              "value": "1"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "1"
+            }
+          ]
+        },
+        "assistance": {
+          "prices": [
+            {
+              "managementType": "Insured",
+              "value": "9,32"
+            }
+          ],
+          "managementFees": [
+            {
+              "managementType": "Insured",
+              "value": "0"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0"
+            }
+          ],
+          "lossRatios": [
+            {
+              "managementType": "Insured",
+              "value": "1"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "1"
+            }
+          ],
+          "commissions": [
+            {
+              "managementType": "Insured",
+              "value": "0"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0"
+            }
+          ],
+          "taxes": [
+            {
+              "managementType": "Insured",
+              "value": "0,1"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0,1"
+            }
+          ]
+        }
+      },
+      "arc": {
+        "warranty": {
+          "prices": [
+            {
+              "managementType": "Insured",
+              "baseRates": [
+                {
+                  "type": "Garanzia Alfa Romeo Certified 4/80 24 Months",
+                  "models": [
+                    {
+                      "name": "Giulietta",
+                      "value": "255,14"
+                    },
+                    {
+                      "name": "Tonale",
+                      "value": "255,58"
+                    },
+                    {
+                      "name": "Stelvio",
+                      "value": "283,33"
+                    },
+                    {
+                      "name": "Giulia",
+                      "value": "283,33"
+                    },
+                    {
+                      "name": "Giulia GTA",
+                      "value": "336,64"
+                    },
+                    {
+                      "name": "Giulia Quadrifoglio",
+                      "value": "336,64"
+                    }
+                  ]
+                },
+                {
+                  "type": "Garanzia Alfa Romeo Certified 7/150 12 Months",
+                  "models": [
+                    {
+                      "name": "Giulietta",
+                      "value": "595,23"
+                    },
+                    {
+                      "name": "Tonale",
+                      "value": "595,23"
+                    },
+                    {
+                      "name": "Stelvio",
+                      "value": "547,65"
+                    },
+                    {
+                      "name": "Giulia",
+                      "value": "547,65"
+                    },
+                    {
+                      "name": "Giulia GTA",
+                      "value": "649,85"
+                    },
+                    {
+                      "name": "Giulia Quadrifoglio",
+                      "value": "649,85"
+                    }
+                  ]
+                },
+                {
+                  "type": "Garanzia Alfa Romeo Certified 7/150 24 Months",
+                  "models": [
+                    {
+                      "name": "Giulietta",
+                      "value": "678,93"
+                    },
+                    {
+                      "name": "Tonale",
+                      "value": "679,37"
+                    },
+                    {
+                      "name": "Stelvio",
+                      "value": "625,18"
+                    },
+                    {
+                      "name": "Giulia",
+                      "value": "625,18"
+                    },
+                    {
+                      "name": "Giulia GTA",
+                      "value": "741,48"
+                    },
+                    {
+                      "name": "Giulia Quadrifoglio",
+                      "value": "741,48"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "durations" : [
+            {
+              "type": "Garanzia Alfa Romeo Certified 4/80 24 Months",
+              "value": "2"
+            },
+            {
+              "type": "Garanzia Alfa Romeo Certified 7/150 12 Months",
+              "value": "1"
+            },
+            {
+              "type": "Garanzia Alfa Romeo Certified 7/150 24 Months",
+              "value": "2"
+            }
+          ],
+          "managementFees": [
+            {
+              "managementType": "Insured",
+              "value": "36"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "36"
+            }
+          ],
+          "commissions": [
+            {
+              "managementType": "Insured",
+              "value": "0"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0"
+            }
+          ],
+          "taxes": [
+            {
+              "managementType": "Insured",
+              "value": "0,135"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0,1"
+            }
+          ],
+          "combinedVariables": [
+            {
+              "managementType": "Insured",
+              "value": "1"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "1"
+            }
+          ]
+        },
+        "assistance": {
+          "prices": [
+            {
+              "managementType": "Insured",
+              "value": "17,78"
+            }
+          ],
+          "managementFees": [
+            {
+              "managementType": "Insured",
+              "value": "0"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0"
+            }
+          ],
+          "lossRatios": [
+            {
+              "managementType": "Insured",
+              "value": "1"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "1"
+            }
+          ],
+          "commissions": [
+            {
+              "managementType": "Insured",
+              "value": "0"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0"
+            }
+          ],
+          "taxes": [
+            {
+              "managementType": "Insured",
+              "value": "0,1"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0,1"
+            }
+          ]
+        }
+      },
+      "dsc": {
+        "warranty": {
+          "prices": [
+            {
+              "managementType": "Insured",
+              "baseRates": [
+                {
+                  "type": "Garanzia DS Certified 4/80 24 Months",
+                  "models": [
+                    {
+                      "name": "DS3",
+                      "value": "169,24"
+                    },
+                    {
+                      "name": "DS4",
+                      "value": "236,64"
+                    },
+                    {
+                      "name": "DS5",
+                      "value": "271"
+                    },
+                    {
+                      "name": "DS7",
+                      "value": "271"
+                    },
+                    {
+                      "name": "DS9",
+                      "value": "271"
+                    }
+                  ]
+                },
+                {
+                  "type": "Garanzia DS Certified 7/150 12 Months",
+                  "models": [
+                    {
+                      "name": "DS3",
+                      "value": "336,2"
+                    },
+                    {
+                      "name": "DS4",
+                      "value": "460,42"
+                    },
+                    {
+                      "name": "DS5",
+                      "value": "526,5"
+                    },
+                    {
+                      "name": "DS7",
+                      "value": "526,5"
+                    },
+                    {
+                      "name": "DS9",
+                      "value": "526,5"
+                    }
+                  ]
+                },
+                {
+                  "type": "Garanzia DS Certified 7/150 24 Months",
+                  "models": [
+                    {
+                      "name": "DS3",
+                      "value": "384,65"
+                    },
+                    {
+                      "name": "DS4",
+                      "value": "525,62"
+                    },
+                    {
+                      "name": "DS5",
+                      "value": "600,95"
+                    },
+                    {
+                      "name": "DS7",
+                      "value": "600,95"
+                    },
+                    {
+                      "name": "DS9",
+                      "value": "600,95"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "durations" : [
+            {
+              "type": "Garanzia DS Certified 4/80 24 Months",
+              "value": "2"
+            },
+            {
+              "type": "Garanzia DS Certified 7/150 12 Months",
+              "value": "1"
+            },
+            {
+              "type": "Garanzia DS Certified 7/150 24 Months",
+              "value": "2"
+            }
+          ],
+          "managementFees": [
+            {
+              "managementType": "Insured",
+              "value": "36"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "36"
+            }
+          ],
+          "commissions": [
+            {
+              "managementType": "Insured",
+              "value": "0"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0"
+            }
+          ],
+          "taxes": [
+            {
+              "managementType": "Insured",
+              "value": "0,135"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0,1"
+            }
+          ],
+          "combinedVariables": [
+            {
+              "managementType": "Insured",
+              "value": "1"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "1"
+            }
+          ]
+        },
+        "assistance": {
+          "prices": [
+            {
+              "managementType": "Insured",
+              "value": "17,78"
+            }
+          ],
+          "managementFees": [
+            {
+              "managementType": "Insured",
+              "value": "0"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0"
+            }
+          ],
+          "lossRatios": [
+            {
+              "managementType": "Insured",
+              "value": "1"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "1"
+            }
+          ],
+          "commissions": [
+            {
+              "managementType": "Insured",
+              "value": "0"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0"
+            }
+          ],
+          "taxes": [
+            {
+              "managementType": "Insured",
+              "value": "0,1"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0,1"
+            }
+          ]
+        }
+      },
+      "lancia": {
+        "warranty": {
+          "prices": [
+            {
+              "managementType": "Insured",
+              "baseRates": [
+                {
+                  "type": "Garanzia Lancia Certified 24 Months 4/80",
+                  "value": "114,61"
+                },
+                {
+                  "type": "Garanzia Lancia Certified 12 Months 7/150",
+                  "value": "216,37"
+                },
+                {
+                  "type": "Garanzia Lancia Certified 24 Months 7/150",
+                  "value": "245,45"
+                }
+              ]
+            }
+          ],
+          "durations" : [
+            {
+              "type": "Garanzia Lancia Certified 24 Months 4/80",
+              "value": "2"
+            },
+            {
+              "type": "Garanzia Lancia Certified 12 Months 7/150",
+              "value": "1"
+            },
+            {
+              "type": "Garanzia Lancia Certified 24 Months 7/150",
+              "value": "2"
+            }
+          ],
+          "managementFees": [
+            {
+              "managementType": "Insured",
+              "value": "36"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "36"
+            }
+          ],
+          "commissions": [
+            {
+              "managementType": "Insured",
+              "value": "0"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0"
+            }
+          ],
+          "taxes": [
+            {
+              "managementType": "Insured",
+              "value": "0,135"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0,1"
+            }
+          ],
+          "combinedVariables": [
+            {
+              "managementType": "Insured",
+              "value": "1"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "1"
+            }
+          ]
+        },
+        "assistance": {
+          "prices": [
+            {
+              "managementType": "Insured",
+              "value": "17,78"
+            }
+          ],
+          "managementFees": [
+            {
+              "managementType": "Insured",
+              "value": "0"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0"
+            }
+          ],
+          "lossRatios": [
+            {
+              "managementType": "Insured",
+              "value": "1"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "1"
+            }
+          ],
+          "commissions": [
+            {
+              "managementType": "Insured",
+              "value": "0"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0"
+            }
+          ],
+          "taxes": [
+            {
+              "managementType": "Insured",
+              "value": "0,1"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0,1"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "country": "Germany",
+    "rating": {
+      "spoticar": {
+        "warranty": {
+          "prices": [
+            {
+              "managementType": "Insured",
+              "baseRates": [
+                {
+                  "type": "GW Garantie SPOTICAR Premium 1_12M",
+                  "carPowers": [
+                    {
+                      "min": 0,
+                      "max": 59,
+                      "value": "97,81"
+                    },
+                    {
+                      "min": 60,
+                      "max": 81,
+                      "value": "131,09"
+                    },
+                    {
+                      "min": 82,
+                      "max": 110,
+                      "value": "165,38"
+                    },
+                    {
+                      "min": 111,
+                      "max": 154,
+                      "value": "229,92"
+                    },
+                    {
+                      "min": 155,
+                      "max": 300,
+                      "value": "330,76"
+                    }
+                  ]
+                },
+                {
+                  "type": "GW Garantie SPOTICAR Premium 1_24M",
+                  "carPowers": [
+                    {
+                      "min": 0,
+                      "max": 59,
+                      "value": "97,81"
+                    },
+                    {
+                      "min": 60,
+                      "max": 81,
+                      "value": "131,09"
+                    },
+                    {
+                      "min": 82,
+                      "max": 110,
+                      "value": "165,38"
+                    },
+                    {
+                      "min": 111,
+                      "max": 154,
+                      "value": "229,91"
+                    },
+                    {
+                      "min": 155,
+                      "max": 300,
+                      "value": "330,75"
+                    }
+                  ]
+                },
+                {
+                  "type": "GW Garantie SPOTICAR Premium 2_12M",
+                  "carPowers": [
+                    {
+                      "min": 0,
+                      "max": 59,
+                      "value": "145,38"
+                    },
+                    {
+                      "min": 60,
+                      "max": 81,
+                      "value": "182,35"
+                    },
+                    {
+                      "min": 82,
+                      "max": 110,
+                      "value": "255,46"
+                    },
+                    {
+                      "min": 111,
+                      "max": 154,
+                      "value": "365,55"
+                    },
+                    {
+                      "min": 155,
+                      "max": 300,
+                      "value": "547,9"
+                    }
+                  ]
+                },
+                {
+                  "type": "GW Garantie SPOTICAR Premium 2_24M",
+                  "carPowers": [
+                    {
+                      "min": 0,
+                      "max": 59,
+                      "value": "132,35"
+                    },
+                    {
+                      "min": 60,
+                      "max": 81,
+                      "value": "168,9"
+                    },
+                    {
+                      "min": 82,
+                      "max": 110,
+                      "value": "228,57"
+                    },
+                    {
+                      "min": 111,
+                      "max": 154,
+                      "value": "320,17"
+                    },
+                    {
+                      "min": 155,
+                      "max": 300,
+                      "value": "457,14"
+                    }
+                  ]
+                },
+                {
+                  "type": "GW Garantie SPOTICAR Advanced 12M",
+                  "carPowers": [
+                    {
+                      "min": 0,
+                      "max": 59,
+                      "value": "182,35"
+                    },
+                    {
+                      "min": 60,
+                      "max": 81,
+                      "value": "210,08"
+                    },
+                    {
+                      "min": 82,
+                      "max": 110,
+                      "value": "297,48"
+                    },
+                    {
+                      "min": 111,
+                      "max": 154,
+                      "value": "393,28"
+                    },
+                    {
+                      "min": 155,
+                      "max": 300,
+                      "value": "576,47"
+                    }
+                  ]
+                },
+                {
+                  "type": "GW Garantie SPOTICAR Advanced 24M",
+                  "carPowers": [
+                    {
+                      "min": 0,
+                      "max": 59,
+                      "value": "150,84"
+                    },
+                    {
+                      "min": 60,
+                      "max": 81,
+                      "value": "182,77"
+                    },
+                    {
+                      "min": 82,
+                      "max": 110,
+                      "value": "249,58"
+                    },
+                    {
+                      "min": 111,
+                      "max": 154,
+                      "value": "334,03"
+                    },
+                    {
+                      "min": 155,
+                      "max": 300,
+                      "value": "501,68"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "managementType": "Delegated",
+              "baseRates": [
+                {
+                  "value": "0"
+                }
+              ]
+            }
+          ],
+          "durations" : [
+            {
+              "type": "GW Garantie SPOTICAR Premium 1_12M",
+              "value": "1"
+            },
+            {
+              "type": "GW Garantie SPOTICAR Premium 1_24M",
+              "value": "2"
+            },
+            {
+              "type": "GW Garantie SPOTICAR Premium 2_12M",
+              "value": "1"
+            },
+            {
+              "type": "GW Garantie SPOTICAR Premium 2_24M",
+              "value": "2"
+            },
+            {
+              "type": "GW Garantie SPOTICAR Advanced 12M",
+              "value": "1"
+            },
+            {
+              "type": "GW Garantie SPOTICAR Advanced 24M",
+              "value": "2"
+            }
+          ],
+          "managementFees": [
+            {
+              "managementType": "Insured",
+              "value": "0"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "1"
+            }
+          ],
+          "commissions": [
+            {
+              "managementType": "Insured",
+              "value": "0"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0"
+            }
+          ],
+          "taxes": [
+            {
+              "managementType": "Insured",
+              "value": "0,19"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0,19"
+            }
+          ],
+          "lossRatios": [
+            {
+              "managementType": "Insured",
+              "value": "1"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "1"
+            }
+          ],
+          "combinedVariables": [
+            {
+              "managementType": "Insured",
+              "vehicleType": "Light Truck",
+              "value": "1,41"
+            },
+            {
+              "managementType": "Insured",
+              "vehicleType": "Passenger Car",
+              "value": "1"
+            },
+            {
+              "managementType": "Delegated",
+              "vehicleType": "Passenger Car",
+              "value": "1"
+            },
+            {
+              "managementType": "Delegated",
+              "vehicleType": "Light Truck",
+              "value": "1"
+            }
+          ]
+        },
+        "assistance": {
+          "prices": [
+            {
+              "managementType": "Insured",
+              "value": "0"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0"
+            }
+          ],
+          "durations" : [
+            {
+              "type": "GW Garantie SPOTICAR Premium 1_12M",
+              "value": "1"
+            },
+            {
+              "type": "GW Garantie SPOTICAR Premium 1_24M",
+              "value": "2"
+            },
+            {
+              "type": "GW Garantie SPOTICAR Premium 2_12M",
+              "value": "1"
+            },
+            {
+              "type": "GW Garantie SPOTICAR Premium 2_24M",
+              "value": "2"
+            },
+            {
+              "type": "GW Garantie SPOTICAR Advanced 12M",
+              "value": "1"
+            },
+            {
+              "type": "GW Garantie SPOTICAR Advanced 24M",
+              "value": "2"
+            }
+          ],
+          "managementFees": [
+            {
+              "managementType": "Insured",
+              "value": "0"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0"
+            },
+            {
+              "managementType": "Self-Managed",
+              "value": "0"
+            }
+          ],
+          "lossRatios": [
+            {
+              "managementType": "Insured",
+              "value": "1"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "1"
+            }
+          ],
+          "commissions": [
+            {
+              "managementType": "Insured",
+              "value": "0,03"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0"
+            }
+          ],
+          "taxes": [
+            {
+              "managementType": "Insured",
+              "value": "0,19"
+            },
+            {
+              "managementType": "Delegated",
+              "value": "0,19"
+            }
+          ],
+          "combinedVariables": [
+            {
+              "managementType": "Insured",
+              "vehicleType": "Passenger Car",
+              "value": "1"
+            },
+            {
+              "managementType": "Insured",
+              "vehicleType": "Light Truck",
+              "value": "1"
+            },
+            {
+              "managementType": "Delegated",
+              "vehicleType": "Passenger Car",
+              "value": "1"
+            },
+            {
+              "managementType": "Delegated",
+              "vehicleType": "Light Truck",
+              "value": "1"
+            }
+          ]
+        }
+      }
+    }
+  }
+]

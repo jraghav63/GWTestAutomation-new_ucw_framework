@@ -1,0 +1,83 @@
+{
+  "headless": true,
+  "environment": "DEV",
+  "timeout": 60,
+  "futureYear": 2039,
+  "selfHealing": false,
+  "centerUrls": [
+    {
+      "env": "DEV",
+      "policyCenterUrl": "https://dev.ucw.mpsa.com/pc/PolicyCenter.do",
+      "billingCenterUrl": "https://dev.ucw.mpsa.com/bc/BillingCenter.do",
+      "contactManagerUrl": "https://dev.ucw.mpsa.com/ab/ContactManager.do",
+      "claimCenterUrl": "https://dev.ucw.mpsa.com/cc/ClaimCenter.do",
+      "portalUrl": "https://devportal.ucw.mpsa.com/ProducerEngage/dist/html/index-agents.html#!/auth/login",
+      "serviceBox": {
+        "baseUrl": "https://dev.ucw.mpsa.com",
+        "path": "/cc/ws/gw/webservice/cc/cc900/servicebox/ServiceBoxAPI"
+      },
+      "producerCode" : "AUTO",
+      "accountNoBilling": "1000020052"
+    },
+    {
+      "env": "TEST",
+      "policyCenterUrl": "https://test.ucw.mpsa.com/pc/PolicyCenter.do",
+      "billingCenterUrl": "https://test.ucw.mpsa.com/bc/BillingCenter.do",
+      "contactManagerUrl": "https://test.ucw.mpsa.com/ab/ContactManager.do",
+      "claimCenterUrl": "https://test.ucw.mpsa.com/cc/ClaimCenter.do",
+      "portalUrl": "https://testportal.ucw.mpsa.com/ProducerEngage/dist/html/index-agents.html#!/auth/login",
+      "serviceBox": {
+        "baseUrl": "https://test.ucw.mpsa.com",
+        "path": "/cc/ws/gw/webservice/cc/cc900/servicebox/ServiceBoxAPI"
+      },
+      "producerCode" : "AUTO",
+      "accountNoBilling": "1003375698"
+    },
+    {
+      "env": "STAGING",
+      "policyCenterUrl": "https://preprod.ucw.mpsa.com/pc/PolicyCenter.do",
+      "billingCenterUrl": "https://preprod.ucw.mpsa.com/bc/BillingCenter.do",
+      "contactManagerUrl": "https://preprod.ucw.mpsa.com/ab/ContactManager.do",
+      "claimCenterUrl": "https://preprod.ucw.mpsa.com/cc/ClaimCenter.do",
+      "portalUrl": "https://preprodportal.ucw.mpsa.com/ProducerEngage/dist/html/index-agents.html",
+      "serviceBox": {
+        "baseUrl": "https://preprod.ucw.mpsa.com",
+        "path": "/cc/ws/gw/webservice/cc/cc900/servicebox/ServiceBoxAPI"
+      },
+      "producerCode" : "017597P",
+      "accountNoBilling": "1000793043"
+    },
+    {
+      "env": "TRAINING",
+      "policyCenterUrl": "https://training.ucw.mpsa.com/pc/PolicyCenter.do",
+      "billingCenterUrl": "https://training.ucw.mpsa.com/bc/BillingCenter.do",
+      "contactManagerUrl": "https://training.ucw.mpsa.com/ab/ContactManager.do",
+      "claimCenterUrl": "https://training.ucw.mpsa.com/cc/ClaimCenter.do",
+      "portalUrl": "https://trainingportal.ucw.mpsa.com/ProducerEngage/dist/html/index-agents.html",
+      "serviceBox": {
+        "baseUrl": "https://training.ucw.mpsa.com",
+        "path": "/cc/ws/gw/webservice/cc/cc900/servicebox/ServiceBoxAPI"
+      },
+      "producerCode" : "010627N",
+      "accountNoBilling": "1000005439"
+    }
+  ],
+  "ccAccount": "su/egvogwpsa",
+  "bcAccount": "ClientAppPC/gwpsa",
+  "pcAccount": "ClientAppBC/gwpsa",
+  "portalAccount": "CAPPORTAL01/egvogwpsa",
+  "ssoAccount": "SE25495/co404019",
+  "accountWithoutCode": "SC98986/Jun24PSA",
+  "github": {
+    "url": "https://github.psa-cloud.com/ucw00/Ansible/blob/master/roles/JV_SUBI1/files/jv.dat",
+    "username": "E598324",
+    "password": "Sk1nd190"
+  },
+  "jenkins": {
+    "url": "https://jenkins.ucw.mpsa.com/job/GW_TEST_Integration/job/PolicyCenter/job/TEST_PC_JV_SUB_I1/build?delay=0sec",
+    "username": "SE25495",
+    "password": "pw404019"
+  },
+  "defaultRegion": "Spain",
+  "defaultLanguage": "English (US)"
+}

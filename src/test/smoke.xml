@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="UCW Test Suite">
+    <listeners>
+        <listener class-name="ucw.listeners.TestListener" />
+    </listeners>
+    <test name="Smoke testing">
+        <classes>
+            <class name="ucw.tests.smoke.PortalSmokeTest" />
+            <class name="ucw.tests.smoke.SmokeTest" />
+        </classes>
+    </test>
+</suite>

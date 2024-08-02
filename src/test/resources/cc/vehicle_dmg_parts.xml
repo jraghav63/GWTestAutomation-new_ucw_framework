@@ -1,0 +1,878 @@
+<soap:Envelope
+        xmlns:soap="http://www.w3.org/2003/05/soap-envelope"
+        xmlns:soap1="http://guidewire.com/ws/soapheaders"
+        xmlns:ser="http://guidewire.com/cc/ws/gw/webservice/cc/cc900/servicebox/ServiceBoxAPI"
+        xmlns:ser1="http://example.com/gw/webservice/cc/cc900/servicebox">
+
+   <soap:Header>
+
+      <soap1:gw_locale>it_IT_PSA</soap1:gw_locale>
+
+      <soap1:gw_language>en_US</soap1:gw_language>
+
+      <soap1:authentication>
+
+         <soap1:username>SBUser</soap1:username>
+
+         <soap1:password>logsbPSA</soap1:password>
+
+      </soap1:authentication>
+
+   </soap:Header>
+
+   <soap:Body>
+
+      <ser:setServiceQuotePartsandOpt>
+
+         <!--Optional:-->
+
+         <!--<ser:id></ser:id>-->
+
+         <!--Optional:-->
+
+         <ser:serQuoteData>
+
+            <!--Optional:-->
+
+            <ser1:Operations>
+
+               <!--Zero or more repetitions:-->
+                <ser1:Entry>
+
+                  <!--Optional:-->
+
+                  <ser1:Comment>operations1</ser1:Comment>
+
+                  <!--Optional:-->
+
+                  <ser1:Description>REMPLACEMENT AMORTISSEURS AV 2 COTES</ser1:Description>
+
+                  <!--Optional:-->
+
+                  <ser1:Discount>0</ser1:Discount>
+
+                  <!--Optional:-->
+
+                  <ser1:PriceTTC>386.40</ser1:PriceTTC>
+
+                  <!--Optional:-->
+
+                  <ser1:Quantity>2.80</ser1:Quantity>
+
+                  <!--Optional:-->
+
+                  <ser1:Ref>52E4GA</ser1:Ref>
+
+                  <!--Optional:-->
+
+                  <ser1:UnitaryPrice>115.00</ser1:UnitaryPrice>
+
+                  <!--Optional:-->
+
+                  <ser1:VAT>0</ser1:VAT>
+
+                  <!--Optional:-->
+
+                  <ser1:WorklineTTC>0</ser1:WorklineTTC>
+
+                  <!--Optional:-->
+
+                  <ser1:WorklineType>Standard</ser1:WorklineType>
+
+                  <!--Optional:-->
+
+                  <ser1:isPart>false</ser1:isPart>
+
+               </ser1:Entry>
+                <ser1:Entry>
+
+                  <!--Optional:-->
+
+                  <ser1:Comment>Operations2</ser1:Comment>
+
+                  <!--Optional:-->
+
+                  <ser1:Description>RECHERCHE DE PANNE DIAGNOSTIC-5 SUR VEHICULE</ser1:Description>
+
+                  <!--Optional:-->
+
+                  <ser1:Discount>0</ser1:Discount>
+
+                  <!--Optional:-->
+
+                  <ser1:PriceTTC>75.00</ser1:PriceTTC>
+
+                  <!--Optional:-->
+
+                  <ser1:Quantity>0.50</ser1:Quantity>
+
+                  <!--Optional:-->
+
+                  <ser1:Ref>9DE05A</ser1:Ref>
+
+                  <!--Optional:-->
+
+                  <ser1:UnitaryPrice>125.00</ser1:UnitaryPrice>
+
+                  <!--Optional:-->
+
+                  <ser1:VAT>0</ser1:VAT>
+
+                  <!--Optional:-->
+
+                  <ser1:WorklineTTC>0</ser1:WorklineTTC>
+
+                  <!--Optional:-->
+
+                  <ser1:WorklineType>Standard</ser1:WorklineType>
+
+                  <!--Optional:-->
+
+                  <ser1:isPart>false</ser1:isPart>
+
+               </ser1:Entry>
+                <ser1:Entry>
+
+                  <!--Optional:-->
+
+                  <ser1:Comment>Operations3</ser1:Comment>
+
+                  <!--Optional:-->
+
+                  <ser1:Description>ESSAI APRES TRAVAUX</ser1:Description>
+
+                  <!--Optional:-->
+
+                  <ser1:Discount>0</ser1:Discount>
+
+                  <!--Optional:-->
+
+                  <ser1:PriceTTC>72.00</ser1:PriceTTC>
+
+                  <!--Optional:-->
+
+                  <ser1:Quantity>0.50</ser1:Quantity>
+
+                  <!--Optional:-->
+
+                  <ser1:Ref>95P02A</ser1:Ref>
+
+                  <!--Optional:-->
+
+                  <ser1:UnitaryPrice>120.00</ser1:UnitaryPrice>
+
+                  <!--Optional:-->
+
+                  <ser1:VAT>0</ser1:VAT>
+
+                  <!--Optional:-->
+
+                  <ser1:WorklineTTC>0</ser1:WorklineTTC>
+
+                  <!--Optional:-->
+
+                  <ser1:WorklineType>Standard</ser1:WorklineType>
+
+                  <!--Optional:-->
+
+                  <ser1:isPart>false</ser1:isPart>
+
+               </ser1:Entry>
+
+            </ser1:Operations>
+
+            <!--Optional:-->
+
+            <ser1:Parts>
+
+               <!--Zero or more repetitions:-->
+
+               <ser1:Entry>
+
+                  <!--Optional:-->
+
+                  <ser1:Comment>PART1</ser1:Comment>
+
+                  <!--Optional:-->
+
+                  <ser1:Description>AMORTISSEUR DE SUSPENSION AV</ser1:Description>
+
+                  <!--Optional:-->
+
+                  <ser1:Discount>0</ser1:Discount>
+
+                  <!--Optional:-->
+
+                  <ser1:PriceTTC>167.06</ser1:PriceTTC>
+
+                  <!--Optional:-->
+
+                  <ser1:Quantity>1</ser1:Quantity>
+
+                  <!--Optional:-->
+
+                  <ser1:Ref>9820326180</ser1:Ref>
+
+                  <!--Optional:-->
+
+                  <ser1:UnitaryPrice>139.22</ser1:UnitaryPrice>
+
+                  <!--Optional:-->
+
+                  <ser1:VAT>0</ser1:VAT>
+
+                  <!--Optional:-->
+
+                  <ser1:WorklineTTC>0</ser1:WorklineTTC>
+
+                  <!--Optional:-->
+
+                  <ser1:WorklineType>NON-ForFait</ser1:WorklineType>
+
+                  <!--Optional:-->
+
+                  <ser1:isPart>true</ser1:isPart>
+
+               </ser1:Entry>
+ 
+                <ser1:Entry>
+
+                  <!--Optional:-->
+
+                  <ser1:Comment>PART2</ser1:Comment>
+
+                  <!--Optional:-->
+
+                  <ser1:Description>AMORTISSEUR DE SUSPENSION AV</ser1:Description>
+
+                  <!--Optional:-->
+
+                  <ser1:Discount>0</ser1:Discount>
+
+                  <!--Optional:-->
+
+                  <ser1:PriceTTC>167.06</ser1:PriceTTC>
+
+                  <!--Optional:-->
+
+                  <ser1:Quantity>1</ser1:Quantity>
+
+                  <!--Optional:-->
+
+                  <ser1:Ref>9820326180</ser1:Ref>
+
+                  <!--Optional:-->
+
+                  <ser1:UnitaryPrice>139.22</ser1:UnitaryPrice>
+
+                  <!--Optional:-->
+
+                  <ser1:VAT>0</ser1:VAT>
+
+                  <!--Optional:-->
+
+                  <ser1:WorklineTTC>0</ser1:WorklineTTC>
+
+                  <!--Optional:-->
+
+                  <ser1:WorklineType>NON-ForFait</ser1:WorklineType>
+
+                  <!--Optional:-->
+
+                  <ser1:isPart>true</ser1:isPart>
+
+               </ser1:Entry>
+ 
+                <ser1:Entry>
+
+                  <!--Optional:-->
+
+                  <ser1:Comment>PART3</ser1:Comment>
+
+                  <!--Optional:-->
+
+                  <ser1:Description>ECROU HEXAGONAL</ser1:Description>
+
+                  <!--Optional:-->
+
+                  <ser1:Discount>0</ser1:Discount>
+
+                  <!--Optional:-->
+
+                  <ser1:PriceTTC>12.46</ser1:PriceTTC>
+
+                  <!--Optional:-->
+
+                  <ser1:Quantity>2</ser1:Quantity>
+
+                  <!--Optional:-->
+
+                  <ser1:Ref>0000503615</ser1:Ref>
+
+                  <!--Optional:-->
+
+                  <ser1:UnitaryPrice>5.19</ser1:UnitaryPrice>
+
+                  <!--Optional:-->
+
+                  <ser1:VAT>0</ser1:VAT>
+
+                  <!--Optional:-->
+
+                  <ser1:WorklineTTC>0</ser1:WorklineTTC>
+
+                  <!--Optional:-->
+
+                  <ser1:WorklineType>NON-ForFait</ser1:WorklineType>
+
+                  <!--Optional:-->
+
+                  <ser1:isPart>true</ser1:isPart>
+
+               </ser1:Entry>
+ 
+               <ser1:Entry>
+
+                  <!--Optional:-->
+
+                  <ser1:Comment>PART4</ser1:Comment>
+
+                  <!--Optional:-->
+
+                  <ser1:Description>PROTECTEUR TIGE DAMORTISSEUR</ser1:Description>
+
+                  <!--Optional:-->
+
+                  <ser1:Discount>0</ser1:Discount>
+
+                  <!--Optional:-->
+
+                  <ser1:PriceTTC>34.90</ser1:PriceTTC>
+
+                  <!--Optional:-->
+
+                  <ser1:Quantity>2</ser1:Quantity>
+
+                  <!--Optional:-->
+
+                  <ser1:Ref>0000525448</ser1:Ref>
+
+                  <!--Optional:-->
+
+                  <ser1:UnitaryPrice>14.54</ser1:UnitaryPrice>
+
+                  <!--Optional:-->
+
+                  <ser1:VAT>0</ser1:VAT>
+
+                  <!--Optional:-->
+
+                  <ser1:WorklineTTC>0</ser1:WorklineTTC>
+
+                  <!--Optional:-->
+
+                  <ser1:WorklineType>NON-ForFait</ser1:WorklineType>
+
+                  <!--Optional:-->
+
+                  <ser1:isPart>true</ser1:isPart>
+
+               </ser1:Entry>
+
+               <ser1:Entry>
+
+                  <!--Optional:-->
+
+                  <ser1:Comment>Part5</ser1:Comment>
+
+                  <!--Optional:-->
+
+                  <ser1:Description>VIS DE FIXATION</ser1:Description>
+
+                  <!--Optional:-->
+
+                  <ser1:Discount>0</ser1:Discount>
+
+                  <!--Optional:-->
+
+                  <ser1:PriceTTC>9.24</ser1:PriceTTC>
+
+                  <!--Optional:-->
+
+                  <ser1:Quantity>2</ser1:Quantity>
+
+                  <!--Optional:-->
+
+                  <ser1:Ref>0000362254</ser1:Ref>
+
+                  <!--Optional:-->
+
+                  <ser1:UnitaryPrice>3.85</ser1:UnitaryPrice>
+
+                  <!--Optional:-->
+
+                  <ser1:VAT>0</ser1:VAT>
+
+                  <!--Optional:-->
+
+                  <ser1:WorklineTTC>0</ser1:WorklineTTC>
+
+                  <!--Optional:-->
+
+                  <ser1:WorklineType>Non-ForFait</ser1:WorklineType>
+
+                  <!--Optional:-->
+
+                  <ser1:isPart>true</ser1:isPart>
+
+               </ser1:Entry>
+ 
+                <ser1:Entry>
+
+                  <!--Optional:-->
+
+                  <ser1:Comment>PART6</ser1:Comment>
+
+                  <!--Optional:-->
+
+                  <ser1:Description>ECROU AUTOFREINE</ser1:Description>
+
+                  <!--Optional:-->
+
+                  <ser1:Discount>0</ser1:Discount>
+
+                  <!--Optional:-->
+
+                  <ser1:PriceTTC>2.74</ser1:PriceTTC>
+
+                  <!--Optional:-->
+
+                  <ser1:Quantity>2</ser1:Quantity>
+
+                  <!--Optional:-->
+
+                  <ser1:Ref>0000362230</ser1:Ref>
+
+                  <!--Optional:-->
+
+                  <ser1:UnitaryPrice>1.14</ser1:UnitaryPrice>
+
+                  <!--Optional:-->
+
+                  <ser1:VAT>0</ser1:VAT>
+
+                  <!--Optional:-->
+
+                  <ser1:WorklineTTC>0</ser1:WorklineTTC>
+
+                  <!--Optional:-->
+
+                  <ser1:WorklineType>NON-ForFait</ser1:WorklineType>
+
+                  <!--Optional:-->
+
+                  <ser1:isPart>true</ser1:isPart>
+
+               </ser1:Entry>
+
+                <ser1:Entry>
+
+                  <!--Optional:-->
+
+                  <ser1:Comment>Part7</ser1:Comment>
+
+                  <!--Optional:-->
+
+                  <ser1:Description>COUPELLE LIMITEUR AMORTISSEUR</ser1:Description>
+
+                  <!--Optional:-->
+
+                  <ser1:Discount>0</ser1:Discount>
+
+                  <!--Optional:-->
+
+                  <ser1:PriceTTC>29.84</ser1:PriceTTC>
+
+                  <!--Optional:-->
+
+                  <ser1:Quantity>2</ser1:Quantity>
+
+                  <!--Optional:-->
+
+                  <ser1:Ref>0000503375</ser1:Ref>
+
+                  <!--Optional:-->
+
+                  <ser1:UnitaryPrice>12.43</ser1:UnitaryPrice>
+
+                  <!--Optional:-->
+
+                  <ser1:VAT>0</ser1:VAT>
+
+                  <!--Optional:-->
+
+                  <ser1:WorklineTTC>0</ser1:WorklineTTC>
+
+                  <!--Optional:-->
+
+                  <ser1:WorklineType>Non-ForFait</ser1:WorklineType>
+
+                  <!--Optional:-->
+
+                  <ser1:isPart>true</ser1:isPart>
+
+               </ser1:Entry>
+
+                  <ser1:Entry>
+
+                  <!--Optional:-->
+
+                  <ser1:Comment>Part8</ser1:Comment>
+
+                  <!--Optional:-->
+
+                  <ser1:Description>ECROU EMBASE</ser1:Description>
+
+                  <!--Optional:-->
+
+                  <ser1:Discount>0</ser1:Discount>
+
+                  <!--Optional:-->
+
+                  <ser1:PriceTTC>4.64</ser1:PriceTTC>
+
+                  <!--Optional:-->
+
+                  <ser1:Quantity>2</ser1:Quantity>
+
+                  <!--Optional:-->
+
+                  <ser1:Ref>0000503623</ser1:Ref>
+
+                  <!--Optional:-->
+
+                  <ser1:UnitaryPrice>1.93</ser1:UnitaryPrice>
+
+                  <!--Optional:-->
+
+                  <ser1:VAT>0</ser1:VAT>
+
+                  <!--Optional:-->
+
+                  <ser1:WorklineTTC>0</ser1:WorklineTTC>
+
+                  <!--Optional:-->
+
+                  <ser1:WorklineType>Non-ForFait</ser1:WorklineType>
+
+                  <!--Optional:-->
+
+                  <ser1:isPart>true</ser1:isPart>
+
+               </ser1:Entry>
+ 
+               <ser1:Entry>
+
+                  <!--Optional:-->
+
+                  <ser1:Comment>Part9</ser1:Comment>
+
+                  <!--Optional:-->
+
+                  <ser1:Description>COUPELLE DAPPUI SUSPENSION AV</ser1:Description>
+
+                  <!--Optional:-->
+
+                  <ser1:Discount>0</ser1:Discount>
+
+                  <!--Optional:-->
+
+                  <ser1:PriceTTC>48.92</ser1:PriceTTC>
+
+                  <!--Optional:-->
+
+                  <ser1:Quantity>2</ser1:Quantity>
+
+                  <!--Optional:-->
+
+                  <ser1:Ref>00005033C3</ser1:Ref>
+
+                  <!--Optional:-->
+
+                  <ser1:UnitaryPrice>20.38</ser1:UnitaryPrice>
+
+                  <!--Optional:-->
+
+                  <ser1:VAT>0</ser1:VAT>
+
+                  <!--Optional:-->
+
+                  <ser1:WorklineTTC>0</ser1:WorklineTTC>
+
+                  <!--Optional:-->
+
+                  <ser1:WorklineType>Non-ForFait</ser1:WorklineType>
+
+                  <!--Optional:-->
+
+                  <ser1:isPart>true</ser1:isPart>
+
+               </ser1:Entry>
+ 
+               <ser1:Entry>
+
+                  <!--Optional:-->
+
+                  <ser1:Comment>Part10</ser1:Comment>
+
+                  <!--Optional:-->
+
+                  <ser1:Description>BUTEE A BILLES DAMORTISSEUR</ser1:Description>
+
+                  <!--Optional:-->
+
+                  <ser1:Discount>0</ser1:Discount>
+
+                  <!--Optional:-->
+
+                  <ser1:PriceTTC>90.44</ser1:PriceTTC>
+
+                  <!--Optional:-->
+
+                  <ser1:Quantity>2</ser1:Quantity>
+
+                  <!--Optional:-->
+
+                  <ser1:Ref>0000503527</ser1:Ref>
+
+                  <!--Optional:-->
+
+                  <ser1:UnitaryPrice>37.68</ser1:UnitaryPrice>
+
+                  <!--Optional:-->
+
+                  <ser1:VAT>0</ser1:VAT>
+
+                  <!--Optional:-->
+
+                  <ser1:WorklineTTC>0</ser1:WorklineTTC>
+
+                  <!--Optional:-->
+
+                  <ser1:WorklineType>Non-ForFait</ser1:WorklineType>
+
+                  <!--Optional:-->
+
+                  <ser1:isPart>true</ser1:isPart>
+
+               </ser1:Entry>
+ 
+                <ser1:Entry>
+
+                  <!--Optional:-->
+
+                  <ser1:Comment>Part11</ser1:Comment>
+
+                  <!--Optional:-->
+
+                  <ser1:Description>SUPPORT SUSPENSION AV</ser1:Description>
+
+                  <!--Optional:-->
+
+                  <ser1:Discount>0</ser1:Discount>
+
+                  <!--Optional:-->
+
+                  <ser1:PriceTTC>65.88</ser1:PriceTTC>
+
+                  <!--Optional:-->
+
+                  <ser1:Quantity>2</ser1:Quantity>
+
+                  <!--Optional:-->
+
+                  <ser1:Ref>9811370580</ser1:Ref>
+
+                  <!--Optional:-->
+
+                  <ser1:UnitaryPrice>27.45</ser1:UnitaryPrice>
+
+                  <!--Optional:-->
+
+                  <ser1:VAT>0</ser1:VAT>
+
+                  <!--Optional:-->
+
+                  <ser1:WorklineTTC>0</ser1:WorklineTTC>
+
+                  <!--Optional:-->
+
+                  <ser1:WorklineType>Non-ForFait</ser1:WorklineType>
+
+                  <!--Optional:-->
+
+                  <ser1:isPart>true</ser1:isPart>
+
+               </ser1:Entry>
+ 
+                <ser1:Entry>
+
+                  <!--Optional:-->
+
+                  <ser1:Comment>Part12</ser1:Comment>
+
+                  <!--Optional:-->
+
+                  <ser1:Description>LIMITEUR DE DEBATTEMENT</ser1:Description>
+
+                  <!--Optional:-->
+
+                  <ser1:Discount>0</ser1:Discount>
+
+                  <!--Optional:-->
+
+                  <ser1:PriceTTC>8.44</ser1:PriceTTC>
+
+                  <!--Optional:-->
+
+                  <ser1:Quantity>2</ser1:Quantity>
+
+                  <!--Optional:-->
+
+                  <ser1:Ref>0000503389</ser1:Ref>
+
+                  <!--Optional:-->
+
+                  <ser1:UnitaryPrice>3.52</ser1:UnitaryPrice>
+
+                  <!--Optional:-->
+
+                  <ser1:VAT>0</ser1:VAT>
+
+                  <!--Optional:-->
+
+                  <ser1:WorklineTTC>0</ser1:WorklineTTC>
+
+                  <!--Optional:-->
+
+                  <ser1:WorklineType>Non-ForFait</ser1:WorklineType>
+
+                  <!--Optional:-->
+
+                  <ser1:isPart>true</ser1:isPart>
+
+               </ser1:Entry>
+ 
+                <ser1:Entry>
+
+                  <!--Optional:-->
+
+                  <ser1:Comment>Part13</ser1:Comment>
+
+                  <!--Optional:-->
+
+                  <ser1:Description>ECROU AVEC RDL IMPDB</ser1:Description>
+
+                  <!--Optional:-->
+
+                  <ser1:Discount>0</ser1:Discount>
+
+                  <!--Optional:-->
+
+                  <ser1:PriceTTC>4.00</ser1:PriceTTC>
+
+                  <!--Optional:-->
+
+                  <ser1:Quantity>2</ser1:Quantity>
+
+                  <!--Optional:-->
+
+                  <ser1:Ref>1610668880</ser1:Ref>
+
+                  <!--Optional:-->
+
+                  <ser1:UnitaryPrice>1.67</ser1:UnitaryPrice>
+
+                  <!--Optional:-->
+
+                  <ser1:VAT>0</ser1:VAT>
+
+                  <!--Optional:-->
+
+                  <ser1:WorklineTTC>0</ser1:WorklineTTC>
+
+                  <!--Optional:-->
+
+                  <ser1:WorklineType>Non-ForFait</ser1:WorklineType>
+
+                  <!--Optional:-->
+
+                  <ser1:isPart>true</ser1:isPart>
+
+               </ser1:Entry>
+
+             </ser1:Parts>
+
+            <!--Optional:-->
+
+            <ser1:PolicyNumber>0001256395</ser1:PolicyNumber>
+
+            <!--Optional:-->
+
+            <ser1:RemiseHTTotal>0</ser1:RemiseHTTotal>
+
+            <!--Optional:-->
+
+            <ser1:RemiseHT_MO>0</ser1:RemiseHT_MO>
+
+            <!--Optional:-->
+
+            <ser1:RemiseHT_PR>0</ser1:RemiseHT_PR>
+
+            <!--Optional:-->
+
+            <ser1:TVATotalHT_MO>96.52</ser1:TVATotalHT_MO>
+
+            <!--Optional:-->
+
+            <ser1:TVATotalHT_PR>100</ser1:TVATotalHT_PR>
+
+            <!--Optional:-->
+
+            <ser1:TVATotalHT_Total>196.52</ser1:TVATotalHT_Total>
+
+            <!--Optional:-->
+
+            <ser1:TotalHTTotal>982.50</ser1:TotalHTTotal>
+
+            <!--Optional:-->
+
+            <ser1:TotalHT_MO>444.50</ser1:TotalHT_MO>
+
+            <!--Optional:-->
+
+            <ser1:TotalHT_PR>538</ser1:TotalHT_PR>
+
+            <!--Optional:-->
+
+            <ser1:TotalTTC_MO>533.4</ser1:TotalTTC_MO>
+
+            <!--Optional:-->
+
+            <ser1:TotalTTC_PR>646.00</ser1:TotalTTC_PR>
+
+            <!--Optional:-->
+
+            <ser1:TotalTTC_Total>1179.02</ser1:TotalTTC_Total>
+
+            <!--Optional:-->
+
+            <ser1:VIN>VHN17061564762504</ser1:VIN>
+
+         </ser:serQuoteData>
+
+      </ser:setServiceQuotePartsandOpt>
+
+   </soap:Body>
+
+</soap:Envelope>

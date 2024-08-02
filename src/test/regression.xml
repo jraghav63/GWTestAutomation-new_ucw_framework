@@ -1,0 +1,114 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="UCW Regression test suite">
+    <listeners>
+        <listener class-name="ucw.listeners.TestListener" />
+    </listeners>
+    <test name="Policy Center test cases">
+        <classes>
+            <class name="ucw.tests.policycenter.GWGarantieSpoticarTest"/>
+            <class name="ucw.tests.policycenter.GaranziaLanciaTest"/>
+            <class name="ucw.tests.policycenter.GaranziaSpoticarTest"/>
+            <class name="ucw.tests.policycenter.GaranziaDSTest"/>
+            <class name="ucw.tests.policycenter.GaranziaAlfaRomeoTest"/>
+            <class name="ucw.tests.policycenter.GVOSpainARCTest"/>
+            <class name="ucw.tests.policycenter.GVOSpainDSTest"/>
+            <class name="ucw.tests.policycenter.GVOSpainSpoticarTest"/>
+            <class name="ucw.tests.policycenter.GVOFranceSpoticarTest"/>
+            <class name="ucw.tests.policycenter.GVOFranceARCTest"/>
+            <class name="ucw.tests.policycenter.GVOFranceDSTest"/>
+            <class name="ucw.tests.policycenter.GVOFranceWLTest"/>
+            <class name="ucw.tests.policycenter.EGVOGaranziaSpoticarTest"/>
+            <class name="ucw.tests.policycenter.EGVOGaranziaARCTest"/>
+            <class name="ucw.tests.policycenter.EGVOGaranziaDSCTest"/>
+            <class name="ucw.tests.policycenter.EGVOGaranziaLanciaTest"/>
+            <class name="ucw.tests.policycenter.EGVOSpainSpoticarTest"/>
+            <class name="ucw.tests.policycenter.EGVOSpainDSCTest"/>
+            <class name="ucw.tests.policycenter.EGVOFranceSpoticarTest"/>
+            <class name="ucw.tests.policycenter.EGVOFranceARCTest"/>
+            <class name="ucw.tests.policycenter.EGVOFranceDSCTest"/>
+            <class name="ucw.tests.policycenter.EGVOFranceWLTest"/>
+            <class name="ucw.tests.policycenter.PolicyCancelTest"/>
+            <class name="ucw.tests.policycenter.PolicyChangeTest"/>
+            <class name="ucw.tests.policycenter.PolicyReinstatementTest"/>
+            <class name="ucw.tests.policycenter.CarPowerTest"/>
+            <class name="ucw.tests.policycenter.RAMBrandTest"/>
+            <class name="ucw.tests.policycenter.LicensePlateGermany"/>
+            <class name="ucw.tests.policycenter.MarketingFeeTest"/>
+            <class name="ucw.tests.policycenter.ExistingVINTest"/>
+            <class name="ucw.tests.policycenter.ProducerCodeDocumentTest"/>
+            <class name="ucw.tests.policycenter.PolicyCenterLanguageLocalization"/>
+            <class name="ucw.tests.policycenter.PolicyCenterAddressLocalization"/>
+            <class name="ucw.tests.policycenter.PolicyCenterCurrencyLocalization"/>
+            <class name="ucw.tests.policycenter.PolicyCenterPhoneLocalization"/>
+            <class name="ucw.tests.policycenter.ManageTypeTest"/>
+            <class name="ucw.tests.policycenter.CoveragesErrorValidation"/>
+            <class name="ucw.tests.policycenter.BrandDisplayTest"/>
+            <class name="ucw.tests.policycenter.AccountFieldsTest"/>
+            <class name="ucw.tests.policycenter.AccountCreationWithSpecialChars"/>
+            <class name="ucw.tests.policycenter.EGVOCreationWithExpiredVIN"/>
+            <class name="ucw.tests.policycenter.VehicleErrorTranslationTest"/>
+            <class name="ucw.tests.policycenter.CertifiedSubscriptionTest"/>
+            <class name="ucw.tests.policycenter.MakerWarrantyEndDateTest"/>
+            <class name="ucw.tests.policycenter.ReplacementMessageDisplayTest"/>
+            <class name="ucw.tests.policycenter.WarrantyEndDateCINTest"/>
+        </classes>
+    </test>
+    <test name="Billing Center test cases">
+        <classes>
+            <class name="ucw.tests.billingcenter.SecurityZoneTest"/>
+            <class name="ucw.tests.billingcenter.LanguageLocalizationTest"/>
+            <class name="ucw.tests.billingcenter.AddressLocalizationTest"/>
+            <class name="ucw.tests.billingcenter.CurrencyLocalizationTest"/>
+            <class name="ucw.tests.billingcenter.PhoneLocalizationTest"/>
+            <class name="ucw.tests.billingcenter.DelinquencyPlanItalyTest"/>
+        </classes>
+    </test>
+    <test name="Claim Center test cases">
+        <classes>
+            <class name="ucw.tests.claimcenter.ClaimClosureReopenTest"/>
+            <class name="ucw.tests.claimcenter.ClaimPaymentRecovery"/>
+            <class name="ucw.tests.claimcenter.ProducerCodeSearchTest"/>
+            <class name="ucw.tests.claimcenter.ClaimRubbonTest"/>
+            <class name="ucw.tests.claimcenter.ClaimMobilityCover"/>
+            <class name="ucw.tests.claimcenter.ClaimVATCalculationTest" />
+            <class name="ucw.tests.claimcenter.ClaimExportDataTest"/>
+            <class name="ucw.tests.claimcenter.ClaimTimeProcessQuote"/>
+            <class name="ucw.tests.claimcenter.InconsistencyMileageTest"/>
+            <class name="ucw.tests.claimcenter.SelfManagedPolicies"/>
+            <class name="ucw.tests.claimcenter.ClaimCancelServiceTest"/>
+            <class name="ucw.tests.claimcenter.StructuredQuoteTest"/>
+        </classes>
+    </test>
+    <test name="Contact Manager test cases">
+        <classes>
+            <class name="ucw.tests.contactmanager.CMAddressTest"/>
+        </classes>
+    </test>
+    <test name="Portal test cases">
+        <classes>
+            <class name="ucw.tests.portal.VehicleScreenErrorTest"/>
+            <class name="ucw.tests.portal.PortalCarPowerTest"/>
+            <class name="ucw.tests.portal.BrandDisplayInSummary"/>
+            <class name="ucw.tests.portal.VehicleErrorTranslationTest"/>
+            <class name="ucw.tests.portal.AccountCreationWithSpecialChars"/>
+            <class name="ucw.tests.portal.MarketingFeeTest"/>
+            <class name="ucw.tests.portal.CertifiedSubscriptionTest"/>
+            <class name="ucw.tests.portal.GaranziaSpoticarTest"/>
+            <class name="ucw.tests.portal.GaranziaLanciaTest"/>
+            <class name="ucw.tests.portal.GaranziaDSTest"/>
+            <class name="ucw.tests.portal.GaranziaAlfaRomeoTest"/>
+            <class name="ucw.tests.portal.GVOFranceSpoticarTest"/>
+            <class name="ucw.tests.portal.GVOFranceARCTest"/>
+            <class name="ucw.tests.portal.GVOFranceDSTest"/>
+            <class name="ucw.tests.portal.GVOFranceWLTest"/>
+            <class name="ucw.tests.portal.GVOSpainARCTest"/>
+            <class name="ucw.tests.portal.GVOSpainDSTest"/>
+            <class name="ucw.tests.portal.GVOSpainSpoticarTest"/>
+            <class name="ucw.tests.portal.GWGarantieSpoticarTest"/>
+            <class name="ucw.tests.portal.ReplacementPercentageTest"/>
+            <class name="ucw.tests.portal.RegDateEditableTest"/>
+            <class name="ucw.tests.portal.ComplaintsActivityTest"/>
+        </classes>
+    </test>
+</suite>

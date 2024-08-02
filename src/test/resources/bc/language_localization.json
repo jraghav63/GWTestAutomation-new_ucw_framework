@@ -1,0 +1,32 @@
+[
+  {
+    "language": "English (US)",
+    "mainMenu": "Desktop,Account,Policy,Producer",
+    "searchAccountsPage": "Accounts,First name,Last name,Country,Search"
+  },
+  {
+    "language": "Deutsch",
+    "mainMenu": "Desktop,Konto,Police,Vermittler",
+    "searchAccountsPage": "Konten suchen,Vorname,Nachname,Land,Suchen"
+  },
+  {
+    "language": "Español",
+    "mainMenu": "Escritorio,Cuenta,Póliza,Agente",
+    "searchAccountsPage": "Buscar cuentas,Nombre,Apellido,País,Buscar"
+  },
+  {
+    "language": "Français",
+    "mainMenu": "Bureau,Compte,Police,Apporteur",
+    "searchAccountsPage": "Rechercher des comptes,Prénom,Nom,Pays,Rechercher"
+  },
+  {
+    "language": "Italiano",
+    "mainMenu": "Desktop,Account,Polizza,Produttore",
+    "searchAccountsPage": "Ricerca account,Nome,Cognome,Paese,Ricerca"
+  },
+  {
+    "language": "Nederlands",
+    "mainMenu": "Bureaublad,Klant,Polis,Tussenpersoon",
+    "searchAccountsPage": "Klanten zoeken,Voornaam,Achternaam,Land,Zoeken"
+  }
+]
